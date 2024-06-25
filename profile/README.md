@@ -18,11 +18,11 @@ teknik keamanan terbaru. 🐞🧑‍💻
 
 ## 🙋‍♀️ Our Member
 
-|         Name         | Bangkit ID |              Role               |          University           |                   Github                   |
-| :------------------: | :--------: | :-----------------------------: | :---------------------------: | :----------------------------------------: |
-|    Ibnu Fachrizal    | D2024Y038  | Leade Team & Frontend Developer |    Universitas Primagraha     | [Github](https://github.com/ibnufachrizal) |
-|    Agus Arifudin     | D2024Y070  |       Frontend Developer        |  Universitas Dian Nuswantoro  |   [Github](https://github.com/yaelahgus)   |
-| Faishal Ananta Ridha | D2024Y070  |        Backend Developer        | Universitas Yudharta Pasuruan |   [Github](https://github.com/Isallkun)    |
+|         Name         | Bangkit ID |              Role              |          University           |                   Github                   |
+| :------------------: | :--------: | :----------------------------: | :---------------------------: | :----------------------------------------: |
+|    Ibnu Fachrizal    | D2024Y038  | Lead Team & Frontend Developer |    Universitas Primagraha     | [Github](https://github.com/ibnufachrizal) |
+|    Agus Arifudin     | D2024Y070  |       Frontend Developer       |  Universitas Dian Nuswantoro  |   [Github](https://github.com/yaelahgus)   |
+| Faishal Ananta Ridha | D2024Y070  |       Backend Developer        | Universitas Yudharta Pasuruan |   [Github](https://github.com/Isallkun)    |
 
 <!--
 
