@@ -4,9 +4,10 @@ Repository Capstone Project Capstone BDT Dicoding 2024 Group BDT24-FS013
 
 ## 🧙 Introduction
 
-<div align="center">
-<img src="">  
-</div> <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff31aadc-aaa3-4a00-bab5-f9e1e80c0e98" alt="Centered Image">
+</p>
+
 
 <b><i>"Recon" atau "reconnaissance"</b></i> merujuk pada proses pengumpulan informasi dan
 pengintaian terhadap target yang berkaitan dengan keamanan informasi. Recon Mate
